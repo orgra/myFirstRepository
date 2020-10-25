@@ -5,7 +5,7 @@ Aenean massa.
 Cum home baby sociis natoque penatibus et magnis dis parturient montes,
 >>>>>>> first/master
 nascetur ridiculus mus.
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+One fig a day keeps the doc away(in season) quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 Nulla consequat massa quis enim.
-Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+One fig a day keeps the doc away(in season) pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
 
